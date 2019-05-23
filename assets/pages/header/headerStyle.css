@@ -1,0 +1,84 @@
+html {
+  font-size: 18px;
+  /*height: 100%;*/
+}
+
+body{
+	/*background-color: white;
+    height: 100%;*/
+    background-image: url("../../background.jpg");
+	background-size:cover;
+  	background-repeat: no-repeat;
+  	font-size: 18px;
+}
+.App{
+	width: 100%;
+	height: 100%;
+	padding-left: 0px;
+	padding-right: 0px;
+}
+
+
+.topHeader {
+	display: flex;
+  	justify-content: right;
+  	width: 100%;
+}
+/*
+#logo{
+	height: 5.6rem;
+	width: 10.8rem;
+	margin-left: 1rem;
+	margin-top: .1rem;
+}
+*/
+.jumbotron{
+	color: black;
+	padding: .3rem 0;
+	margin: 0;
+	margin: 0 1rem;
+	font-family: 'Bitter', serif;
+/*	height: 1%;
+*/	text-align: center;
+	width: 100%;
+	/*letter-spacing: .2rem;*/
+
+	/*	the following background color is obtained from the website: 
+		https://uigradients.com;
+	*/	
+	background: #EFEFBB;  /* fallback for old browsers */
+	background: -webkit-linear-gradient(to right, #D4D3DD, #EFEFBB);  /* Chrome 10-25, Safari 5.1-6 */
+	background: linear-gradient(to right, #D4D3DD, #EFEFBB); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+#welcome{
+	font-size: 1.2rem;  /*the relative size to html 18px*/
+	margin-bottom: 0px;
+	margin-top: 0px;
+	color: #283E70;
+}
+
+#content{
+	font-size: 1.6rem;
+	margin-bottom: 5px;
+	margin-top: 5px;
+	color: #283E70;
+}
+
+#note{
+	/*color: #26A657;*/
+	color: #239E52;
+	margin: 0;
+}
+
+.navbar{
+	background-color: #eff7f9;
+	height: 8%;
+	font-size: 1.0rem;
+	color: black;
+	font-family: 'Josefin Sans', sans-serif;
+}
+
+.dropdown:hover  .dropdown-menu{
+	display: inline-block;
+}
