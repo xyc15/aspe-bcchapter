@@ -7,9 +7,11 @@ body{
 	/*background-color: white;
     height: 100%;*/
     background-image: url("../../background.jpg");
-	background-size:cover;
+	  background-size:cover;
   	background-repeat: no-repeat;
-  	font-size: 18px;
+		font-size: 18px;
+		height: 100vh;
+
 }
 .App{
 	width: 100%;

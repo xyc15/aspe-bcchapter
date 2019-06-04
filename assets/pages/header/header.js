@@ -24,38 +24,30 @@ document.write('\
 		        <span class="icon-bar"></span>\
 		        <span class="icon-bar"></span>\
 		      </button>\
-		      <a class="navbar-brand" href="/aspe-bcchapter">Home</a>\
+		      <a class="navbar-brand" href="/Users/XiaoyingChang/Documents/web-development/ASPE%20project/index.html">Home</a>\
 		    </div>\
 \
 		    <!-- Collect the nav links, forms, and other content for toggling -->\
 		    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">\
 		      <ul class="nav navbar-nav">\
 		        <li class="dropdown">\
-		          <a href="/aspe-bcchapter/assets/news%20and%20events/newsAndEvents.html" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">News & Events<span class="caret"></span></a>\
+		          <a href="/Users/XiaoyingChang/Documents/web-development/ASPE%20project/assets/news%20and%20events/newsAndEvents.html" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">News & Events<span class="caret"></span></a>\
 		          <ul class="dropdown-menu">\
-		            <li><a href="/aspe-bcchapter/assets/pages/news%20and%20events/newsAndEvents.html">2018</a></li>\
-		            <li><a href="/aspe-bcchapter/assets/pages/news%20and%20events/newsAndEvents.html">2017</a></li>\
-		            <li><a href="/aspe-bcchapter/assets/pages/news%20and%20events/newsAndEvents.html">2016</a></li>\
+		            <li><a href="/Users/XiaoyingChang/Documents/web-development/ASPE%20project/assets/pages/news%20and%20events/newsAndEvents.html">2018</a></li>\
+		            <li><a href="/Users/XiaoyingChang/Documents/web-development/ASPE%20project/assets/pages/news%20and%20events/newsAndEvents.html">2017</a></li>\
+		            <li><a href="/Users/XiaoyingChang/Documents/web-development/ASPE%20project/assets/pages/news%20and%20events/newsAndEvents.html">2016</a></li>\
 		            <li role="separator" class="divider"></li> \
-		            <li><a href="/aspe-bcchapter/assets/pages/news%20and%20events/newsAndEvents.html">Past Events</a></li>\
+		            <li><a href="/Users/XiaoyingChang/Documents/web-development/ASPE%20project/assets/pages/news%20and%20events/newsAndEvents.html">Past Events</a></li>\
 		            <li role="separator" class="divider"></li>\
-		            <li><a href="/aspe-bcchapter/assets/pages/news%20and%20events/newsAndEvents.html">Future Events</a></li>\
+		            <li><a href="/Users/XiaoyingChang/Documents/web-development/ASPE%20project/assets/pages/news%20and%20events/newsAndEvents.html">Future Events</a></li>\
 		          </ul>\
 		        </li>\
-		        <li><a href="/aspe-bcchapter/assets/pages/calendar/fullcalendar.html">Calendar</a></li>\
-		        <li><a href="/aspe-bcchapter/assets/pages/board%20of%20directors/boardMembers.html">Board of Directors</a></li>\
-		        <li><a href="/aspe-bcchapter/assets/pages/resources/resources.html">Resources</a></li>\
-		        <li><a href="/aspe-bcchapter/assets/pages/disclaimer/disclaimer.html">Disclaimer</a></li>\
-		      </ul>\
-		      <ul class="nav navbar-nav navbar-right">\
-		        \
-		        <form class="navbar-form navbar-left">\
-			        <div class="form-group">\
-			          <input type="text" class="form-control" placeholder="Search">\
-			        </div>\
-			        <button type="submit" class="btn btn-default"> <i class="fas fa-search"></i> </button>\
-		       </form> \
-		       <li><a href="/aspe-bcchapter/assets/pages/contactUs/contactUs.html">Contact Us</a></li>\
+		        <li><a href="/Users/XiaoyingChang/Documents/web-development/ASPE%20project/assets/pages/calendar/fullcalendar.html">Calendar</a></li>\
+		        <li><a href="/Users/XiaoyingChang/Documents/web-development/ASPE%20project/assets/pages/board%20of%20directors/boardMembers.html">Board of Directors</a></li>\
+		        <li><a href="/Users/XiaoyingChang/Documents/web-development/ASPE%20project/assets/pages/resources/resources.html">Resources</a></li>\
+						<li><a href="/Users/XiaoyingChang/Documents/web-development/ASPE%20project/assets/pages/disclaimer/disclaimer.html">Disclaimer</a></li>\
+						<li><a href="/Users/XiaoyingChang/Documents/web-development/ASPE%20project/assets/pages/contactUs/contactUs.html">Contact Us</a></li>\
+					\
 		      </ul>\
 		    </div><!-- /.navbar-collapse -->\
 		  </div><!-- /.container-fluid -->\
